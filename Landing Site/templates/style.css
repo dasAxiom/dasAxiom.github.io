@@ -48,53 +48,52 @@ body {
     margin-bottom: 40px;
   }
   
-  section p
-  {
+  section p {
     font-size: 16px;
     line-height: 1.5;
     margin: 0;
-    }
-    
-    section ul {
+  }
+  
+  section ul {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    }
-    
-    section li {
+  }
+  
+  section li {
     font-size: 16px;
     margin: 20px;
-    }
-    
-    footer {
+  }
+  
+  footer {
     background-color: #333;
     color: #fff;
     font-size: 14px;
     text-align: center;
     padding: 40px;
-    }
-    
-    #tagline {
-        background-image: url('/images/pexels-harry-cooke-6194972.jpg'); /*replace bg-image.jpg with your actual image path*/
-        background-size: cover;
-        background-position: center;
-        height: 500px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-      
-      .tagline-container {
-        text-align: center;
-      }
-      
-      .tagline-container h2 {
-        font-size: 50px;
-        font-weight: 500;
-        color: #fff;
-        text-shadow: 1px 1px #333;
-      }
-      
+  }
+  
+  #tagline {
+    background-image: url('/images/pexels-harry-cooke-6194972.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .tagline-container {
+    text-align: center;
+  }
+  
+  .tagline-container h2 {
+    font-size: 50px;
+    font-weight: 500;
+    color: #fff;
+    text-shadow: 1px 1px #333;
+  }
+  
